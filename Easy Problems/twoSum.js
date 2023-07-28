@@ -1,4 +1,3 @@
-// In the below code, the time is ... and is ...
 var twoSum = function (nums, target) {
   for (let i = 0; i < nums.length; i++) {
     console.log(i)
