@@ -1,3 +1,5 @@
+// TODO: Learn Linked List then try to Solve Question
+
 function revesre_array(arr) {
     let rev_arr = [];
     for(let i = arr.length-1; i >= 0; i--){
