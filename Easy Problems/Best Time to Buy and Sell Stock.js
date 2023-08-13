@@ -1,5 +1,3 @@
-// TODO: Complete the code
-
 function maxProfit(prices) {
     let left = 0;
     let right = 1;
